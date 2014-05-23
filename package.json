@@ -1,0 +1,14 @@
+{
+  "name": "node-artisanal-integers",
+  "version": "0.0.1",
+  "description": "a little thing to grab a new artisanal int",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Micah Walter <micah@micahwalter.com> (http://micahwalter.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.36.0"
+  }
+}
