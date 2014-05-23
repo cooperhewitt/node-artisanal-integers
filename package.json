@@ -1,13 +1,21 @@
 {
   "name": "node-artisanal-integers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a little thing to grab a new artisanal int",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cooperhewitt/node-artisanal-integers"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Micah Walter <micah@micahwalter.com> (http://micahwalter.com/)",
-  "license": "ISC",
+  "author": "Micah Walter",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/cooperhewitt/node-artisanal-integers/issues"
+  },
+  "homepage": "https://github.com/cooperhewitt/node-artisanal-integers",
   "dependencies": {
     "request": "^2.36.0"
   }
